@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple steps:
 
 - Java 11+
 - Node.js and npm
-- PostgreSQL
+- mySQL
 
 ### Installation
 
